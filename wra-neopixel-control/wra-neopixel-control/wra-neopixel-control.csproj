@@ -101,6 +101,7 @@
     </Compile>
     <Compile Include="Communication\Connection.cs" />
     <Compile Include="Communication\Connections.cs" />
+    <Compile Include="Communication\Email.cs" />
     <Compile Include="ConnectionPage.xaml.cs">
       <DependentUpon>ConnectionPage.xaml</DependentUpon>
     </Compile>
